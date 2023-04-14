@@ -1,4 +1,4 @@
-A collection of API modules which includes;
+A list of modules which is used in Building a RESTful Api;
 
 - hapi[http://hapijs.com/]
 - express[http://expressjs.com]

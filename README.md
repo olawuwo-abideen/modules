@@ -38,8 +38,24 @@ Category: Up-to-date documentation
 
 - hal[https://www.npmjs.com/package/hal]
 
+7. Halson is a module that helps create HAL-compliant JSON objects, which you’ll then be able to use as part of the response in your API.
+
+Category: Hypermedia on the response
+
 - JSON-gate[https://www.npmjs.com/package/json-gate]
+
+8. HAL is an alternative to HALSON. It provides a simpler interface but the same underlying functionality: abstracting the HAL+JSON format and giving the developer an easy way to use it.
+
+Category: Hypermedia on the response
 
 - tv4[https://www.npmjs.com/package/tv4]
 
+9. This module validates the structure and content of a JSON object against a predefined schema that follows the JSON Schema format.
+
+Category: Request/Response validation
+
 - I/O Docs[https://github.com/mashery/iodocs]
+
+10. This module provides validation against version 4 of the JSON Schema.
+
+Category: Request/Response validation

@@ -26,7 +26,15 @@ Category: Request/Response handler, Middleware, Routes handling
 
 - swagger-nose-express[https://github.com/swagger-api/swagger-node-express]
 
+5. This is a module for Express. It integrates into an Express app and provides the functionalities that Swagger 3 does for documenting APIs, which is a web interface with documentation of each method and the ability to try these methods.
+
+Category: Up-to-date documentation
+
 - halson[http://github.com/seznam/halson]
+
+6. I/O Docs is a live documentation system designed for RESTful APIs. By defining the API using the JSON Schema, I/O Docs generates a web interface to try out the API.
+
+Category: Up-to-date documentation
 
 - hal[https://www.npmjs.com/package/hal]
 

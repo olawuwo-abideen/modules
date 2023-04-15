@@ -18,8 +18,7 @@ var validator = require("tv4")
  "required": ["firstName", "lastName"] 
  } 
  var invalidInput = { 
- firstName: 'olawuwo', 
- lastName: 'abideen',
+ firstName: 42, 
  age: "100" 
  } 
  var results = validator.validateMultiple(invalidInput, schema) 

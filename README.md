@@ -14,7 +14,15 @@ Category: Request/Response handler, Routes handler, Middleware
 
 - restify[http://mcavage.me/node-restify/]
 
+3. Restify is a framework specifically design for building REST APIs. It borrows heavily from Express.js (specifically, versions prior to 4.0) because Express is considered the standard when it comes to building web apps.
+
+Category: Request/Response handler, Routes handler, Middleware
+
 - vatican[http://www.vaticanjs.info]
+
+4. Vatican.js is another attempt of a framework designed to create RESTful APIs. It doesn’t follow the Express/Restify path. Its focus is more on the MVP stage of the API, but it provides an interesting alternative.
+
+Category: Request/Response handler, Middleware, Routes handling
 
 - swagger-nose-express[https://github.com/swagger-api/swagger-node-express]
 

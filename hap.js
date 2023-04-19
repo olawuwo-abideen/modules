@@ -17,6 +17,17 @@ const init = async () => {
             return 'Hello World!';
         }
     });
+    
+    server.route({
+        method: 'GET',
+        path: '/hello/abideen',
+        handler: function (request, h) {
+    
+            const name = request.params.name;
+            return 'Hello ' + abideen
+        }
+    });;
+
 
     await server.start();
     console.log('Server running on %s', server.info.uri);
